@@ -1,0 +1,6 @@
+@charset "UTF-8";
+.bar-chart {
+	display: inline-block;
+	margin-right: 1px;
+	background-color: hotpink;
+}
